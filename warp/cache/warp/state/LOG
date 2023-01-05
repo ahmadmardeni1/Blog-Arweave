@@ -1,0 +1,6 @@
+2023/01/05-14:53:31.087 2ff8 Recovering log #14
+2023/01/05-14:53:31.088 2ff8 Level-0 table #16: started
+2023/01/05-14:53:31.141 2ff8 Level-0 table #16: 474 bytes OK
+2023/01/05-14:53:31.149 2ff8 Delete type=0 #14
+2023/01/05-14:53:31.149 2ff8 Delete type=3 #12
+2023/01/05-14:53:31.156 515c Moved #8 to level-1 474 bytes OK: files[ 3 1 0 0 0 0 0 ]
